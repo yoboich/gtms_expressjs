@@ -1,0 +1,30 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "canvas": "^2.11.2",
+    "cors": "^2.8.5",
+    "emoji-strip": "^1.0.1",
+    "express": "^4.19.1",
+    "font-list": "^1.5.1",
+    "fontname": "^1.0.1",
+    "image-size": "^1.1.1",
+    "installfont": "^0.0.12",
+    "md5": "^2.3.0",
+    "mysql": "^2.18.1",
+    "node-cron": "^3.0.3",
+    "nodemon": "^3.1.0",
+    "sharp": "^0.33.3",
+    "socket.io": "^4.7.5",
+    "x-ray": "^2.3.4"
+  }
+}
